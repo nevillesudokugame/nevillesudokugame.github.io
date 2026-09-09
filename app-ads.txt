@@ -1,0 +1,2 @@
+# Replace this comment with the exact AdMob-authorized seller line after the
+# publisher account is created. Do not invent or reuse another publisher ID.
